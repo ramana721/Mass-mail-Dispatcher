@@ -48,8 +48,8 @@ function sendEmail() {
     Host: "smtp.elasticemail.com",
     Password: "B5206F9DCB5B3D9E7516F3DA8724B2ECCB47", 
     To: "venkataramana7210@gmail.com",
-    From: "saurabhkurve5@gmail.com",
-    Username: "saurabhkurve5@gmail.com",
+    From: "venkataramana7210@gmail.com",
+    Username: "venkataramana7210@gmail.com",
     Subject: document.querySelector('#subject').value, 
     Body: document.getElementById('msg').value
 
